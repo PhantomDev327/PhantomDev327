@@ -1,4 +1,7 @@
+<a href=#><img src="contributions.svg"></a>
+
 ### **[About Me]**
+
 <h1 align="left"><img src="https://readme-typing-svg.herokuapp.com?color=87CEFA&font=Courier+New&lines=Welcome+To+PhantomDev327's+Github!;I+am+a+full-stack+developer.;I+am+a+blockchain+developer."> </h1>
 
 Hello, Dear Everyone who visit my github.
