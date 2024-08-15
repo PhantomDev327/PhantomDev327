@@ -1,5 +1,3 @@
-<a href=#><img src="contributions.svg"></a>
-
 ### **[About Me]**
 
 <h1 align="left"><img src="https://readme-typing-svg.herokuapp.com?color=87CEFA&font=Courier+New&lines=Welcome+To+PhantomDev327's+Github!;I+am+a+full-stack+developer.;I+am+a+blockchain+developer."> </h1>
@@ -25,7 +23,7 @@ Whether I'm working on modern JavaScript frameworks like React, developing APIs 
 - ***Test Framework***: <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" alt="Jest" height="15px"> Jest, <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mocha/mocha-plain.svg" alt="Mocha" height="15px"> Mocha/Chai, <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/protractor/protractor-plain.svg" alt="Protractor" height="15px"> Protractor, <img src="https://jasmine.github.io/images/jasmine-horizontal.svg" alt="Jasmine" height="15px"> Jasmine
 
 <br/>
-<!--<a href="https://github.com/PhantomDev327"><img alt="PhantomDev327's Github Stats" src="https://github-readme-stats.vercel.app/api?username=PhantomDev327&show_icons=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
+<!--<a href="https://github.com/PhantomDev327"><img alt="PhantomDev327's Github Stats" src="https://github-readme-stats.vercel.app/api?username=PhantomDev327&show_icons=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>-->
 <a href="https://github.com/PhantomDev327"><img alt="PhantomDev327's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PhantomDev327&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
--->
+
 <br/>
